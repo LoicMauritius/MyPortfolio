@@ -1,0 +1,230 @@
+{
+    "common": {
+        "bookCall": "Get in touch",
+        "bookCallDiscovery": "Let's discuss your project",
+        "viewAllCases": "View all projects",
+        "learnMore": "Learn more",
+        "send": "Send",
+        "loading": "Loading...",
+        "close": "Close"
+    },
+    "header": {
+      "name": "Loïc Mauritius",
+      "nav": {
+        "results": "Approach",
+        "services": "Services",
+        "testimonials": "About",
+        "projects": "Projects"
+      },
+      "mobileMenu": "Open menu",
+      "navMenu": "Navigation menu"
+    },
+    "hero": {
+      "title": {
+        "part1": "I build ",
+        "part2": "completed and maintainable web applications"
+      },
+      "subtitle": "Full-stack Developer and Freelancer based in France passionate about quality code. I create applications designed to last, through a methodical approach and transparent communication. My goal is to deliver a reliable application that doesn’t become a technical problem in 6 months.",
+      "features": {
+        "modern": "Modern stack",
+        "clean": "Standardized, structured, and readable code",
+        "vision": "Product thinking",
+        "tech_debt": "No hidden technical debt"
+      },
+      "cta": {
+        "primary": "Let's discuss your project",
+        "secondary": "View my work"
+      },
+      "freeCall": "30-minute free and no-obligation call",
+      "availability": {
+        "status": "Available",
+        "slots": "\"I only accept 5 projects at a time to ensure quality and constant follow-up.\""
+      },
+      "imageAlt": "Loïc Mauritius - Full Stack Web Developer"
+    },
+    "socialProof": {
+      "badge": "How I work",
+      "title": "A quality-focused approach",
+      "subtitle": "What guides my daily work",
+      "stats": {
+        "projects": {
+          "value": "",
+          "label": "Versioned and documented source code"
+        },
+        "quality": {
+          "value": "",
+          "label": "Systematic testing and code reviews"
+        },
+        "outsourcing": {
+          "value": "",
+          "label": "I work alone, no outsourcing"
+        },
+        "maintenance": {
+          "value": "",
+          "label": "Applications designed to evolve"
+        }
+      }
+    },
+    "benefits": {
+      "badge": "Why work with me?",
+      "title": "A rigorous and attentive developer",
+      "subtitle": "I don’t deliver a project just to disappear! I build a technical foundation that you can evolve, while challenging your idea to make it a reality together.",
+      "items": {
+        "maintainable": {
+          "title": "Maintainable code",
+          "description": "I write clear, structured, and documented code that other developers can easily take over."
+        },
+        "productVision": {
+          "title": "Product vision",
+          "description": "I develop each feature as if the application were going into production the next day."
+        },
+        "communication": {
+          "title": "Clear communication",
+          "description": "Simple explanations, justified technical choices, and regular exchanges throughout the project."
+        },
+        "quality": {
+          "title": "Quality commitment",
+          "description": "I prioritize quality, stability, and scalability of the product."
+        },
+        "structured": {
+          "title": "Structured approach",
+          "description": "Each project follows a clear method: understanding needs, design, development, and testing."
+        },
+        "improvement": {
+          "title": "Continuous improvement",
+          "description": "Every project is an opportunity to learn, optimize, and propose better solutions."
+        }
+      }
+    },
+    "guarantee": {
+      "title": "Transparency and commitment",
+      "subtitle": "Availability and responsiveness to answer your questions throughout the process: clarity on feasibility, progress, and improvement of your project.",
+      "guarantees": {
+        "satisfaction": "Adjustments included until validation",
+        "corrections": "Regular check-ins to avoid surprises",
+        "support": "Support after delivery",
+        "ownership": "You own the source code"
+      },
+      "cta": "Let's discuss your project",
+      "callInfo": "30 minutes, free, no obligation"
+    },
+    "contact": {
+      "badge": "Let's talk about your project",
+      "title": "A first exchange to get to know each other",
+      "subtitle": "Let's take 30 minutes to discuss your project, understand your needs, and see if we can work together.",
+      "benefits": {
+        "title": "What we'll discuss together:",
+        "audit": "Understand your needs and context",
+        "recommendations": "Think about possible solutions",
+        "estimate": "Estimate scope and timelines",
+        "questions": "Answer your questions"
+      },
+      "callCard": {
+        "title": "Discovery call",
+        "duration": "30 min - Free",
+        "availability": "Next availabilities: this week"
+      },
+      "form": {
+        "name": "Your name",
+        "email": "Email",
+        "company": "Company (optional)",
+        "project": "Describe your project in a few words",
+        "projectPlaceholder": "Example: I want to create a booking app for my restaurant...",
+        "submitPrimary": "Schedule a call",
+        "submitSecondary": "Or send me a message",
+        "sending": "Sending...",
+        "responseTime": "I'll get back to you quickly to arrange a time slot.",
+        "required": "*",
+        "success": "Message sent successfully! I'll get back to you very soon.",
+        "error": "An error occurred. Please try again or contact me directly."
+      }
+    },
+    "calendly": {
+      "title": "Schedule a chat",
+      "subtitle": "30 minutes to discuss your project",
+      "close": "Close"
+    },
+    "footer": {
+      "rights": "All rights reserved.",
+      "madeWith": "Created with",
+      "by": "by"
+    },
+    "projects": {
+      "badge": "Projects",
+      "title": "What I've built",
+      "subtitle": "Personal and collaborative projects that illustrate my approach to web development.",
+      "viewAll": "View all projects",
+      "allProjectsTitle": "My projects",
+      "allProjectsSubtitle": "Personal and collaborative projects built with care"
+    },
+    "projectDetail": {
+      "home": "Home",
+      "projects": "Projects",
+      "viewDemo": "View demo",
+      "viewCode": "View code",
+      "context": "Context",
+      "problem": "Problem",
+      "solution": "Solution",
+      "features": "Main features",
+      "results": "Results",
+      "technologies": "Technologies used",
+      "competences": "Skills acquired"
+    },
+    "services": {
+      "badge": "Services",
+      "title": "What I can do for you",
+      "subtitle": "From showcase websites to web applications, I adapt to your project and constraints",
+      "subtitlebis": "at preferential rates.",
+      "popularBadge": "Recommended",
+      "cta": "Learn more",
+      "allServicesTitle": "My services",
+      "allServicesSubtitle": "The types of projects I can deliver",
+      "priceLabel": "Price",
+      "durationLabel": "Duration",
+      "includes": "What's included",
+      "more": "more"
+    },
+    "servicesPage": {
+      "metaTitle": "Services | Web Development",
+      "metaDescription": "Discover my web development services: websites, business tools, MVPs and AI automation.",
+      "badge": "Services",
+      "title": "Solutions tailored to your needs",
+      "subtitle": "Whether you need a website, a business tool, or an MVP, I support you with a structured and transparent approach.",
+      "helpMeChoose": "Help me choose",
+      "decisionHelper": {
+        "title": "Which service fits your needs?",
+        "subtitle": "Select the option that best describes your situation.",
+        "recommended": "Recommended",
+        "learnMore": "Learn more",
+        "needs": {
+          "site-web-landing-technique": "You need a professional web presence to showcase your business or project.",
+          "application-web-outils-metier": "You want to automate processes or create a custom internal tool.",
+          "mvp-plateforme-saas": "You want to launch a digital product and need a solid technical foundation.",
+          "automatisation-prototypage-ia": "You want to reduce repetitive tasks or leverage your data with AI."
+        }
+      },
+      "cta": {
+        "title": "Not sure where to start?",
+        "subtitle": "Let's take 30 minutes to discuss your project and identify the best solution together.",
+        "button": "Schedule a call",
+        "reassurance": "Free, no-obligation chat"
+      }
+    },
+    "serviceDetail": {
+      "home": "Home",
+      "services": "Services",
+      "service": "Service",
+      "duration": "Estimated duration",
+      "pricing": "Indicative pricing",
+      "overview": "Overview",
+      "problemSolved": "The need",
+      "deliverables": "What's included",
+      "process": "How I work",
+      "processDescription": "A structured, step-by-step approach",
+      "technologies": "Technologies used",
+      "competences": "Skills",
+      "readyToStart": "Interested in this project?",
+      "ctaDescription": "Let's take 30 minutes to discuss it and see if I can help you.",
+      "freeConsultation": "Free, no-obligation chat"
+    }
+}

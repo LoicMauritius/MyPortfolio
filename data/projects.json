@@ -1,0 +1,349 @@
+{
+  "projects": [
+    {
+      "slug": "chillzone",
+      "title": {
+        "fr": "La ChillZone",
+        "en": "La ChillZone"
+      },
+      "shortDescription": {
+        "fr": "Application mobile et web visant à améliorer le quotidien des étudiants et du personnel universitaire.",
+        "en": "Mobile and web application designed to improve daily life for students and university staff."
+      },
+      "description": {
+        "fr": "Une application mobile développée dans le cadre du BUT Informatique, couvrant l'ensemble du cycle de vie d'un projet : recueil des besoins, conception, développement et validation via un POC fonctionnel. Son but étant de centraliser divers services étudiants au sein d'une même application simple et accessible. Et sa réalisation a été effectuée en uniquement 6 mois avec accès administrateur par web et API hébergé sur un serveur distant compris.",
+        "en": "A mobile and web application developed as part of a Computer Science degree, covering the full project lifecycle: requirements gathering, design, development, and validation through a functional proof of concept. Its goal is to centralize various student services within a single, simple, and accessible application. The project was completed in just 6 months, including a web admin interface and an API hosted on a remote server."
+      },
+      "context": {
+        "fr": "Dans le cadre de ma troisième année de BUT informatique, j'ai été amené à faire un projet universitaire réalisé en équipe visant à concevoir une solution concrète répondant à des besoins réels au sein d'un campus universitaire en l'espace de 6 mois.",
+        "en": "As part of my third year in Computer Science, I worked on a team university project aimed at designing a practical solution to address real needs on a university campus within 6 months."
+      },
+      "problem": {
+        "fr": "Centraliser plusieurs services étudiants dans une seule application simple et accessible et démontrer la faisabilité technique du projet pour l'université.",
+        "en": "Centralizing multiple student services into a single, accessible application and demonstrating the technical feasibility of the project for the university."
+      },
+      "solution": {
+        "fr": "Développement d'une application cross-platform avec React, React Native et TypeScript, intégrant des fonctionnalités mobiles et un back-office web.",
+        "en": "Development of a cross-platform application using React, React Native, and TypeScript, integrating mobile features and a web back-office."
+      },
+      "results": {
+        "fr": "POC fonctionnel en 6 mois démontrant la faisabilité technique et la cohérence fonctionnelle du produit. Le projet a permis d'identifier les contraintes techniques et organisationnelles nécessaires à un déploiement réel à l'échelle d'un campus.",
+        "en": "Functional proof of concept completed in 6 months, demonstrating technical feasibility and functional coherence. The project identified the technical and organizational constraints required for real-world deployment on a campus scale."
+      },
+      "competences": ["Project Management", "UX/UI", "Mobile Development", "Back-office"],
+      "technologies": ["React", "React Native", "TypeScript", "Python", "Django", "MySQL"],
+      "features": {
+        "fr": [
+          "Consultation de l'emploi du temps",
+          "Réservation en Click & Collect de nourriture",
+          "Réservation de salles et de box acoustiques",
+          "Interface mobile inclusive",
+          "Interface web pour la gestion administrative",
+          "Interface web pour la gestion des restaurateurs partenaires"
+        ],
+        "en": [
+          "Timetable access",
+          "Food Click & Collect booking",
+          "Room and acoustic booth reservation",
+          "Inclusive mobile interface",
+          "Web interface for administrative management",
+          "Web interface for partner restaurant management"
+        ]
+      },
+      "images": ["/projects/chillzone1.png", "/projects/chillzone2.png"],
+      "status": {
+        "fr": "Projet universitaire",
+        "en": "University project"
+      },
+      "links": {
+        "demo": null,
+        "github": "https://github.com/FC-Zen/ChillZone"
+      },
+      "date": "2025-01-01"
+    },
+
+    {
+      "slug": "fr-reservation",
+      "title": {
+        "fr": "FR-Reservation",
+        "en": "FR-Reservation"
+      },
+      "shortDescription": {
+        "fr": "Une application web de réservation de billets de trains dans toute la France avec base de données des trajets.",
+        "en": "A web application for booking train tickets across France, with a trip database."
+      },
+      "description": {
+        "fr": "Application web permettant la recherche, la réservation et la gestion de billets de train, avec une base de données non relationnelle.",
+        "en": "Web application enabling train ticket search, booking, and management using a NoSQL database."
+      },
+      "context": {
+        "fr": "Dans le cadre de ma deuxième année de BUT informatique, nous avons été amené à travailler sur un projet universitaire dédié au monde du transport. L'objectif était de concevoir une application complète répondant à un besoin précis en utilisant des technologies web modernes.",
+        "en": "As part of my second year in Computer Science, I worked on a university project focused on the transportation sector. The goal was to design a complete application addressing a specific need using modern web technologies."
+      },
+      "problem": {
+        "fr": "Concevoir un système de réservation simple tout en gérant la donnée des utilisateurs de manière efficace et en faire un projet scalable.",
+        "en": "Designing a simple booking system while efficiently managing user data and ensuring scalability."
+      },
+      "solution": {
+        "fr": "Utilisation de Next.js pour le développement Full-Stack et MongoDB pour le stockage des données scalable.",
+        "en": "Use of Next.js for full-stack development and MongoDB for scalable data storage."
+      },
+      "results": {
+        "fr": "Application fonctionnelle avec gestion des réservations et authentification en 3 semaines.",
+        "en": "Functional application with booking management and authentication completed in 3 weeks."
+      },
+      "competences": ["Web Architecture", "NoSQL Database", "Authentication"],
+      "technologies": ["Next.js", "MongoDB", "TypeScript", "Prisma"],
+      "features": {
+        "fr": [
+          "Recherche de trajets",
+          "Réservation et annulation de billets",
+          "Gestion des comptes utilisateurs",
+          "Ajout d'options supplémentaires sur les billets"
+        ],
+        "en": [
+          "Trip search",
+          "Ticket booking and cancellation",
+          "User account management",
+          "Additional ticket options"
+        ]
+      },
+      "images": ["/projects/fr-reservation1.png", "/projects/fr-reservation2.png"],
+      "status": {
+        "fr": "Projet universitaire",
+        "en": "University project"
+      },
+      "links": {
+        "demo": null,
+        "github": "https://github.com/LoicMauritius/fr-reservation"
+      },
+      "date": "2024-03-01"
+    },
+
+    {
+      "slug": "daktari",
+      "title": {
+        "fr": "Daktari",
+        "en": "Daktari"
+      },
+      "shortDescription": {
+        "fr": "Application web de gestion pour clinique vétérinaire.",
+        "en": "Web application for veterinary clinic management."
+      },
+      "description": {
+        "fr": "Site web connecté à une base de données PostgreSQL permettant la gestion complète des dossiers vétérinaires.",
+        "en": "Web application connected to a PostgreSQL database for comprehensive veterinary record management."
+      },
+      "context": {
+        "fr": "Projet universitaire axé sur la modélisation de données et les systèmes d'information.",
+        "en": "University project focused on data modeling and information systems."
+      },
+      "problem": {
+        "fr": "Structurer et sécuriser des données médicales tout en facilitant leur gestion.",
+        "en": "Structuring and securing medical data while simplifying its management."
+      },
+      "solution": {
+        "fr": "Conception du schéma de base de données et développement d'une interface web dynamique.",
+        "en": "Design of the database schema and development of a dynamic web interface."
+      },
+      "results": {
+        "fr": "Système fonctionnel couvrant les principaux besoins d'une clinique.",
+        "en": "Functional system covering the core needs of a clinic."
+      },
+      "competences": ["Data Modeling", "CRUD", "Security"],
+      "technologies": ["PHP", "PostgreSQL", "HTML"],
+      "features": {
+        "fr": [
+          "Gestion des dossiers vétérinaires",
+          "Prise de rendez-vous",
+          "Gestion des rôles utilisateurs"
+        ],
+        "en": [
+          "Veterinary record management",
+          "Appointment booking",
+          "User role management"
+        ]
+      },
+      "images": ["/projects/daktari1.png", "/projects/daktari2.png"],
+      "status": {
+        "fr": "Projet universitaire",
+        "en": "University project"
+      },
+      "links": {
+        "demo": null,
+        "github": "https://github.com/LoicMauritius/Daktari_site"
+      },
+      "date": "2022-10-01"
+    },
+
+    {
+      "slug": "cnil-dashboard",
+      "title": {
+        "fr": "Dashboard contrôles CNIL",
+        "en": "CNIL Controls Dashboard"
+      },
+      "shortDescription": {
+        "fr": "Tableau de bord de visualisation de données publiques.",
+        "en": "Public data visualization dashboard."
+      },
+      "description": {
+        "fr": "Dashboard interactif permettant l'analyse et l'exploration de jeux de données issus du gouvernement français.",
+        "en": "Interactive dashboard for analyzing and exploring datasets from the French government."
+      },
+      "context": {
+        "fr": "Projet universitaire orienté data visualisation.",
+        "en": "University project focused on data visualization."
+      },
+      "problem": {
+        "fr": "Rendre lisibles et exploitables des données volumineuses.",
+        "en": "Making large datasets readable and usable."
+      },
+      "solution": {
+        "fr": "Création de graphiques dynamiques avec filtrage en temps réel.",
+        "en": "Creation of dynamic charts with real-time filtering."
+      },
+      "results": {
+        "fr": "Interface claire facilitant l'analyse des données.",
+        "en": "Clear interface facilitating data analysis."
+      },
+      "competences": ["Data Visualization", "Data Analysis"],
+      "technologies": ["PHP", "PostgreSQL", "HTML"],
+      "features": {
+        "fr": [
+          "Graphiques interactifs",
+          "Filtres dynamiques",
+          "Mise à jour des données"
+        ],
+        "en": [
+          "Interactive charts",
+          "Dynamic filters",
+          "Data updates"
+        ]
+      },
+      "images": ["/projects/controlecnil.png"],
+      "status": {
+        "fr": "Projet universitaire",
+        "en": "University project"
+      },
+      "links": {
+        "demo": null,
+        "github": null
+      },
+      "date": "2023-01-01"
+    },
+
+    {
+      "slug": "lexiquest",
+      "title": {
+        "fr": "LexiQuest",
+        "en": "LexiQuest"
+      },
+      "shortDescription": {
+        "fr": "Jeu web basé sur la proximité des mots.",
+        "en": "Word proximity-based web game."
+      },
+      "description": {
+        "fr": "Un jeu interactif combinant une interface web moderne et épurée avec des algorithmes complexes de calculs sémantiques de mots et de recherche dans un graphe.",
+        "en": "An interactive game combining a modern, clean web interface with complex algorithms for word semantic calculations and graph search."
+      },
+      "context": {
+        "fr": "Ce projet universitaire en groupe multi-technologies allie des compétences en algorithmique, en développement frontend et backend.",
+        "en": "This multi-technology university group project combines skills in algorithms, frontend, and backend development."
+      },
+      "problem": {
+        "fr": "Allier performance algorithmique et expérience utilisateur à travers un jeu interactif.",
+        "en": "Combining algorithmic performance with user experience in an interactive game."
+      },
+      "solution": {
+        "fr": "Algorithmes en C pour la vitesse de calcul, parcours d'arbre en langage orienté objet Java et une interface React avec WebSocket.",
+        "en": "C-based algorithms for calculation speed, Java object-oriented tree traversal, and a React interface with WebSocket."
+      },
+      "results": {
+        "fr": "Le jeu a pu être fonctionnel avec un mode multijoueur. Les algorithmes de calculs sémantiques ont aussi été optimisés pour une expérience plus fluide.",
+        "en": "The game became functional with a multiplayer mode. The semantic calculation algorithms were also optimized for a smoother experience."
+      },
+      "competences": ["Algorithms", "WebSockets", "Frontend"],
+      "technologies": ["HTML/CSS", "React", "PHP", "C", "Java", "Python", "MySQL"],
+      "features": {
+        "fr": [
+          "Calcul de similarité de mots",
+          "Parcours dans un graphe",
+          "Mode multijoueur avec chat",
+          "Interface moderne"
+        ],
+        "en": [
+          "Word similarity calculation",
+          "Graph traversal",
+          "Multiplayer mode with chat",
+          "Modern interface"
+        ]
+      },
+      "images": ["/projects/lexiquest1.png", "/projects/lexiquest2.png"],
+      "status": {
+        "fr": "Projet universitaire",
+        "en": "University project"
+      },
+      "links": {
+        "demo": null,
+        "github": "https://github.com/but2-sae-2023/LexiQuest"
+      },
+      "date": "2023-01-01"
+    },
+
+    {
+      "slug": "ci-cd-jenkins",
+      "title": {
+        "fr": "Pipeline CI/CD avec Jenkins",
+        "en": "CI/CD Pipeline with Jenkins"
+      },
+      "shortDescription": {
+        "fr": "Mise en place d'un pipeline d'intégration continue.",
+        "en": "Implementation of a continuous integration pipeline."
+      },
+      "description": {
+        "fr": "Projet visant à comprendre et implémenter les étapes clés d'un pipeline CI/CD.",
+        "en": "Project aimed at understanding and implementing the key stages of a CI/CD pipeline."
+      },
+      "context": {
+        "fr": "Actuellement, les entreprises automatisent les tâches de développement jusqu'au déploiement (DevOps). J'ai alors réalisé ce projet universitaire pour en comprendre ces pratiques.",
+        "en": "Companies now automate development tasks up to deployment (DevOps). I undertook this university project to understand these practices."
+      },
+      "problem": {
+        "fr": "Automatiser les étapes du cycle de développement logiciel jusqu'à la mise en production.",
+        "en": "Automating the stages of the software development lifecycle up to production deployment."
+      },
+      "solution": {
+        "fr": "Création de pipelines Jenkins automatisant build, tests et déploiement.",
+        "en": "Creation of Jenkins pipelines automating build, tests, and deployment."
+      },
+      "results": {
+        "fr": "Pipeline fonctionnel et documenté pour ne plus avoir de processus manuel lors du déploiement.",
+        "en": "Functional and documented pipeline to eliminate manual processes during deployment."
+      },
+      "competences": ["CI/CD", "DevOps"],
+      "technologies": ["Jenkins", "GitHub", "GitHub Actions"],
+      "features": {
+        "fr": [
+          "Automatisation des builds",
+          "Tests automatisés",
+          "Suivi des logs"
+        ],
+        "en": [
+          "Build automation",
+          "Automated tests",
+          "Log monitoring"
+        ]
+      },
+      "images": ["/projects/jenkins1.png", "/projects/jenkins2.png"],
+      "status": {
+        "fr": "Projet universitaire",
+        "en": "University project"
+      },
+      "links": {
+        "demo": null,
+        "github": null
+      },
+      "date": "2023-01-01"
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "services": [
+    {
+      "slug": "site-web-landing-technique",
+      "title": {
+        "fr": "Site web & landing page technique",
+        "en": "Technical Website & Landing Page"
+      },
+      "subtitle": {
+        "fr": "Une présence web claire, rapide et évolutive",
+        "en": "A clear, fast and scalable web presence"
+      },
+      "description": {
+        "fr": "Conception de sites web et landing pages modernes, axés sur la clarté, la performance et la maintenabilité. Idéal pour présenter un projet, un produit ou une activité de manière professionnelle.",
+        "en": "Design and development of modern websites and landing pages focused on clarity, performance and maintainability. Ideal for showcasing a project, product or business professionally."
+      },
+      "problemSolved": {
+        "fr": "Vous avez besoin d'une présence en ligne professionnelle, claire et performante pour présenter votre projet, produit ou activité, mais vous ne savez pas par où commencer ou comment garantir une base technique solide et évolutive.",
+        "en": "You need a professional, clear, and high-performance online presence to showcase your project, product, or business, but you don't know where to start or how to ensure a solid and scalable technical foundation."
+      },
+      "deliverables": {
+        "fr": [
+          "Site web ou landing page responsive",
+          "Structure claire et lisible",
+          "Code propre et maintenable",
+          "Optimisation des performances",
+          "SEO technique de base",
+          "Documentation pour la prise en main"
+        ],
+        "en": [
+          "Responsive website or landing page",
+          "Clear and readable structure",
+          "Clean and maintainable code",
+          "Performance optimization",
+          "Basic technical SEO",
+          "Getting-started documentation"
+        ]
+      },
+      "competences": [
+        "Développement Frontend",
+        "Optimisation des performances",
+        "SEO technique",
+        "Design responsive",
+        "Documentation technique"
+      ],
+      "technologies": ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+      "process": {
+        "fr": [
+          {
+            "step": "Recueil des besoins",
+            "description": "Comprendre vos objectifs, votre cible et vos attentes pour le projet."
+          },
+          {
+            "step": "Conception et maquettage",
+            "description": "Création de maquettes et validation du design et de l'expérience utilisateur."
+          },
+          {
+            "step": "Développement",
+            "description": "Développement du site avec des technologies modernes et optimisées."
+          },
+          {
+            "step": "Tests et optimisation",
+            "description": "Vérification de la qualité, des performances et du SEO technique."
+          },
+          {
+            "step": "Livraison et documentation",
+            "description": "Mise en ligne du site et fourniture d'une documentation complète pour la prise en main."
+          }
+        ],
+        "en": [
+          {
+            "step": "Requirements gathering",
+            "description": "Understand your goals, target audience, and expectations for the project."
+          },
+          {
+            "step": "Design and prototyping",
+            "description": "Create mockups and validate the design and user experience."
+          },
+          {
+            "step": "Development",
+            "description": "Develop the site using modern and optimized technologies."
+          },
+          {
+            "step": "Testing and optimization",
+            "description": "Check quality, performance, and technical SEO."
+          },
+          {
+            "step": "Delivery and documentation",
+            "description": "Deploy the site and provide comprehensive documentation for onboarding."
+          }
+        ]
+      },
+      "duration": {
+        "fr": "2 à 4 semaines",
+        "en": "2 to 4 weeks"
+      },
+      "priceRange": {
+        "fr": "1 200 € – 3 200 €",
+        "en": "$1,300 – $3,500"
+      },
+      "cta": {
+        "fr": "Demander un devis",
+        "en": "Request a quote"
+      }
+    },
+    {
+      "slug": "application-web-outils-metier",
+      "title": {
+        "fr": "Application web & outils métier",
+        "en": "Web Application & Business Tools"
+      },
+      "subtitle": {
+        "fr": "Des outils sur-mesure pour gagner du temps",
+        "en": "Custom tools to save time"
+      },
+      "description": {
+        "fr": "Développement d'applications web adaptées à vos besoins : outils internes, dashboards, automatisation de processus ou applications métier spécifiques.",
+        "en": "Development of web applications tailored to your needs: internal tools, dashboards, process automation or custom business applications."
+      },
+      "problemSolved": {
+        "fr": "Vous avez des processus manuels ou des outils inadaptés qui ralentissent votre productivité, et vous cherchez une solution sur-mesure pour automatiser, centraliser ou simplifier vos tâches quotidiennes.",
+        "en": "You have manual processes or inadequate tools that slow down your productivity, and you're looking for a custom solution to automate, centralize, or simplify your daily tasks."
+      },
+      "deliverables": {
+        "fr": [
+          "Application web sur-mesure",
+          "Interface claire et fonctionnelle",
+          "Base de données structurée",
+          "Authentification et gestion des accès",
+          "API pour évolutions futures",
+          "Documentation technique"
+        ],
+        "en": [
+          "Custom web application",
+          "Clear and functional interface",
+          "Structured database",
+          "Authentication and access management",
+          "API for future evolutions",
+          "Technical documentation"
+        ]
+      },
+      "competences": [
+        "Développement Full-Stack",
+        "Conception de bases de données",
+        "Sécurité et authentification",
+        "Automatisation de processus",
+        "Intégration d'API"
+      ],
+      "technologies": ["Next.js", "Node.js", "TypeScript", "PostgreSQL", "Prisma"],
+      "process": {
+        "fr": [
+          {
+            "step": "Analyse des besoins",
+            "description": "Comprendre vos processus actuels et identifier les points à améliorer."
+          },
+          {
+            "step": "Conception technique",
+            "description": "Définir l'architecture et les fonctionnalités nécessaires pour répondre à vos besoins."
+          },
+          {
+            "step": "Développement et intégration",
+            "description": "Création de l'application avec des technologies adaptées et une base de données structurée."
+          },
+          {
+            "step": "Tests et validation",
+            "description": "Vérification de la qualité, de la sécurité et de la fonctionnalité de l'application."
+          },
+          {
+            "step": "Livraison et accompagnement",
+            "description": "Mise en production de l'application et formation pour une utilisation optimale."
+          }
+        ],
+        "en": [
+          {
+            "step": "Needs analysis",
+            "description": "Understand your current processes and identify areas for improvement."
+          },
+          {
+            "step": "Technical design",
+            "description": "Define the architecture and features needed to meet your requirements."
+          },
+          {
+            "step": "Development and integration",
+            "description": "Create the application using suitable technologies and a structured database."
+          },
+          {
+            "step": "Testing and validation",
+            "description": "Verify the quality, security, and functionality of the application."
+          },
+          {
+            "step": "Delivery and support",
+            "description": "Deploy the application and provide training for optimal use."
+          }
+        ]
+      },
+      "duration": {
+        "fr": "4 à 8 semaines",
+        "en": "4 to 8 weeks"
+      },
+      "priceRange": {
+        "fr": "3 000 € – 8 000 €",
+        "en": "$3,300 – $8,800"
+      },
+      "cta": {
+        "fr": "Demander un devis",
+        "en": "Request a quote"
+      }
+    },
+    {
+      "slug": "mvp-plateforme-saas",
+      "title": {
+        "fr": "MVP & plateformes SaaS",
+        "en": "MVP & SaaS Platforms"
+      },
+      "subtitle": {
+        "fr": "Une base technique solide pour lancer un produit",
+        "en": "A solid technical foundation to launch a product"
+      },
+      "description": {
+        "fr": "Conception et développement de MVP et plateformes SaaS avec une architecture claire, évolutive et maintenable, pensée pour accompagner les premières étapes d’un produit.",
+        "en": "Design and development of MVPs and SaaS platforms with a clear, scalable and maintainable architecture, built to support the early stages of a product."
+      },
+      "problemSolved": {
+        "fr": "Vous avez une idée de produit ou de service innovant, mais vous manquez d'une base technique solide, évolutive et maintenable pour le lancer rapidement et tester sa viabilité sur le marché.",
+        "en": "You have an innovative product or service idea, but you lack a solid, scalable, and maintainable technical foundation to launch it quickly and test its market viability."
+      },
+      "deliverables": {
+        "fr": [
+          "Architecture technique claire",
+          "Fonctionnalités essentielles du MVP",
+          "Gestion des utilisateurs",
+          "Base de données évolutive",
+          "Code documenté",
+          "Accompagnement technique"
+        ],
+        "en": [
+          "Clear technical architecture",
+          "Essential MVP features",
+          "User management",
+          "Scalable database",
+          "Documented code",
+          "Technical guidance"
+        ]
+      },
+      "competences": [
+        "Architecture logicielle",
+        "Développement SaaS",
+        "Gestion de projet Agile",
+        "Scalabilité et performance",
+        "Documentation technique"
+      ],
+      "technologies": ["Next.js", "TypeScript", "PostgreSQL", "Prisma", "Docker"],
+      "process": {
+        "fr": [
+          {
+            "step": "Définition des objectifs",
+            "description": "Identifier les fonctionnalités clés et les indicateurs de succès pour le MVP."
+          },
+          {
+            "step": "Conception de l'architecture",
+            "description": "Créer une architecture évolutive et adaptée aux besoins futurs."
+          },
+          {
+            "step": "Développement itératif",
+            "description": "Développer les fonctionnalités essentielles en utilisant des méthodes Agile."
+          },
+          {
+            "step": "Tests et améliorations",
+            "description": "Valider la qualité, la performance et l'expérience utilisateur."
+          },
+          {
+            "step": "Lancement et suivi",
+            "description": "Mise en production du MVP et accompagnement pour les premières étapes."
+          }
+        ],
+        "en": [
+          {
+            "step": "Define objectives",
+            "description": "Identify key features and success metrics for the MVP."
+          },
+          {
+            "step": "Design architecture",
+            "description": "Create a scalable architecture suited to future needs."
+          },
+          {
+            "step": "Iterative development",
+            "description": "Develop essential features using Agile methods."
+          },
+          {
+            "step": "Testing and improvements",
+            "description": "Validate quality, performance, and user experience."
+          },
+          {
+            "step": "Launch and follow-up",
+            "description": "Deploy the MVP and provide support for the initial stages."
+          }
+        ]
+      },
+      "duration": {
+        "fr": "6 à 12 semaines",
+        "en": "6 to 12 weeks"
+      },
+      "priceRange": {
+        "fr": "6 000 € – 15 000 €",
+        "en": "$6,600 – $16,500"
+      },
+      "cta": {
+        "fr": "Demander un devis",
+        "en": "Request a quote"
+      }
+    },
+    {
+      "slug": "automatisation-prototypage-ia",
+      "title": {
+        "fr": "Automatisation & prototypage IA",
+        "en": "Automation & AI Prototyping"
+      },
+      "subtitle": {
+        "fr": "Automatiser, analyser et aider à la décision",
+        "en": "Automate, analyze and support decision-making"
+      },
+      "description": {
+        "fr": "Mise en place d’outils d’automatisation et de prototypes intégrant de l’IA pour réduire les tâches répétitives, limiter les erreurs et améliorer l’aide à la décision.",
+        "en": "Implementation of automation tools and AI-powered prototypes to reduce repetitive tasks, limit errors and improve decision support."
+      },
+      "problemSolved": {
+        "fr": "Vous passez trop de temps sur des tâches répétitives ou manuelles, ou vous souhaitez exploiter vos données pour améliorer vos prises de décision, mais vous ne savez pas comment intégrer des outils d'automatisation ou d'IA adaptés à vos besoins.",
+        "en": "You spend too much time on repetitive or manual tasks, or you want to leverage your data to improve decision-making, but you don't know how to integrate automation or AI tools tailored to your needs."
+      },
+      "deliverables": {
+        "fr": [
+          "Analyse des processus existants",
+          "Automatisation ciblée",
+          "Prototypes IA fonctionnels",
+          "Outils d'aide à la décision",
+          "Documentation et explications"
+        ],
+        "en": [
+          "Analysis of existing processes",
+          "Targeted automation",
+          "Functional AI prototypes",
+          "Decision-support tools",
+          "Documentation and explanations"
+        ]
+      },
+      "competences": [
+        "Automatisation des processus",
+        "Traitement des données",
+        "Intégration d'IA",
+        "Analyse prédictive",
+        "Optimisation des workflows"
+      ],
+      "technologies": ["Python", "TypeScript", "APIs", "LLM", "Data Processing"],
+      "process": {
+        "fr": [
+          {
+            "step": "Audit des processus",
+            "description": "Analyser vos processus actuels pour identifier les opportunités d'automatisation."
+          },
+          {
+            "step": "Conception de solutions",
+            "description": "Définir des outils adaptés pour automatiser ou intégrer de l'IA."
+          },
+          {
+            "step": "Développement et tests",
+            "description": "Créer des prototypes fonctionnels et les tester en conditions réelles."
+          },
+          {
+            "step": "Intégration et formation",
+            "description": "Intégrer les outils dans votre environnement et former vos équipes."
+          },
+          {
+            "step": "Suivi et amélioration",
+            "description": "Assurer un suivi pour optimiser les outils en fonction de vos retours."
+          }
+        ],
+        "en": [
+          {
+            "step": "Process audit",
+            "description": "Analyze your current processes to identify automation opportunities."
+          },
+          {
+            "step": "Solution design",
+            "description": "Define tailored tools to automate or integrate AI."
+          },
+          {
+            "step": "Development and testing",
+            "description": "Create functional prototypes and test them in real conditions."
+          },
+          {
+            "step": "Integration and training",
+            "description": "Integrate the tools into your environment and train your teams."
+          },
+          {
+            "step": "Follow-up and improvement",
+            "description": "Provide follow-up to optimize tools based on your feedback."
+          }
+        ]
+      },
+      "duration": {
+        "fr": "2 à 6 semaines",
+        "en": "2 to 6 weeks"
+      },
+      "priceRange": {
+        "fr": "2 000 € – 6 000 €",
+        "en": "$2,200 – $6,600"
+      },
+      "cta": {
+        "fr": "Demander un devis",
+        "en": "Request a quote"
+      }
+    }
+  ]
+}
