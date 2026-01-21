@@ -11,10 +11,11 @@
     "header": {
       "name": "Mauritius Loïc",
       "nav": {
+        "about": "À propos",
         "results": "Approche",
         "services": "Services",
-        "testimonials": "À propos",
-        "projects": "Projets"
+        "projects": "Projets",
+        "contact": "Contact"
       },
       "mobileMenu": "Ouvrir le menu",
       "navMenu": "Menu de navigation"
