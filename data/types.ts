@@ -30,9 +30,9 @@ export interface Project {
   features: LocalizedStringArray;
   images: string[];
   links: {
-    demo: string;
-    github: string;
-  };
+    demo?: string | null
+    github?: string | null
+  }
   status: LocalizedString;
   date: string;
 }
