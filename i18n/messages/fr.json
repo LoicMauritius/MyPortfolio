@@ -25,7 +25,7 @@
         "part1": "Je construis des ",
         "part2": "applications web abouties et maintenables"
       },
-      "subtitle": "Développeur Full-stack et Freelance basé en France, passionné par le code de qualité. Je crée des applications pensées pour durer, via une approche méthodique et une communication transparente. Mon objectif est donc de livrer une application fiable et durable dans le temps.",
+      "subtitle": "Développeur Full-stack basé en France, passionné par le code de qualité. Je crée des applications pensées pour durer, via une approche méthodique et une communication transparente. Mon objectif est donc de livrer une application fiable et durable dans le temps.",
       "features": {
         "modern": "Stack moderne",
         "clean": "Code normé, structuré et lisible",
@@ -36,10 +36,10 @@
         "primary": "Échangeons sur votre projet",
         "secondary": "Voir mes réalisations"
       },
-      "freeCall": "Appel de 30 min gratuit et sans engagement",
+      "freeCall": "Disponible pour un échange téléphonique et visio",
       "availability": {
         "status": "Disponible",
-        "slots": "\"Je n'accepte simultanément qu'un nombre limité de projets pour leur garantir une qualité et un suivi constant.\""
+        "slots": "\"Je m'investis dans mes projets avec autonomie et rigueur.\""
       },
       "imageAlt": "Mauritius Loïc - Développeur Web Full Stack"
     },
@@ -58,7 +58,7 @@
         },
         "outsourcing": {
           "value": "",
-          "label": "Je travaille seul, sans sous-traitance"
+          "label": "Plusieurs projets réalisés avec succès"
         },
         "maintenance": {
           "value": "",
