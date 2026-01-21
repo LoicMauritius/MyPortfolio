@@ -26,7 +26,7 @@ export function HomePageTemplate({ projects, services }: HomePageTemplateProps) 
         <SocialProofSection />
         <BenefitsSection />
         <ProjectsSection projects={projects} />
-        <ServicesSection services={services} />
+        {/*<ServicesSection services={services} />*/}
         <GuaranteeSection />
         <ContactSection />
       </main>
