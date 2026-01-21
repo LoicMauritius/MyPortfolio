@@ -22,7 +22,7 @@
         "fr": [
           "Site web ou landing page responsive",
           "Structure claire et lisible",
-          "Code propre et maintenable",
+          "Code maintenable",
           "Optimisation des performances",
           "SEO technique de base",
           "Documentation pour la prise en main"
@@ -91,7 +91,7 @@
         ]
       },
       "duration": {
-        "fr": "2 à 4 semaines",
+        "fr": "1 semaine",
         "en": "2 to 4 weeks"
       },
       "priceRange": {
@@ -118,7 +118,7 @@
         "en": "Development of web applications tailored to your needs: internal tools, dashboards, process automation or custom business applications."
       },
       "problemSolved": {
-        "fr": "Vous avez des processus manuels ou des outils inadaptés qui ralentissent votre productivité, et vous cherchez une solution sur-mesure pour automatiser, centraliser ou simplifier vos tâches quotidiennes.",
+        "fr": "Vous avez des processus manuels ou des outils inadaptés qui ralentissent votre productivité et vous cherchez une solution sur-mesure pour automatiser, centraliser ou simplifier vos tâches quotidiennes.",
         "en": "You have manual processes or inadequate tools that slow down your productivity, and you're looking for a custom solution to automate, centralize, or simplify your daily tasks."
       },
       "deliverables": {
@@ -194,8 +194,8 @@
         ]
       },
       "duration": {
-        "fr": "4 à 8 semaines",
-        "en": "4 to 8 weeks"
+        "fr": "2 à 6 semaines",
+        "en": "2 to 6 weeks"
       },
       "priceRange": {
         "fr": "3 000 € – 8 000 €",

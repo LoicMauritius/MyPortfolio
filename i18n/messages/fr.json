@@ -24,7 +24,7 @@
         "part1": "Je construis des ",
         "part2": "applications web abouties et maintenables"
       },
-      "subtitle": "Développeur Full-stack et Freelance basé en France passionné par le code de qualité. Je crée des applications pensées pour durer, via une approche méthodique et une communication transparente. Mon objectif est donc de livrer une application fiable qui ne devient pas un problème technique dans 6 mois.",
+      "subtitle": "Développeur Full-stack et Freelance basé en France, passionné par le code de qualité. Je crée des applications pensées pour durer, via une approche méthodique et une communication transparente. Mon objectif est donc de livrer une application fiable et durable dans le temps.",
       "features": {
         "modern": "Stack moderne",
         "clean": "Code normé, structuré et lisible",
@@ -38,7 +38,7 @@
       "freeCall": "Appel de 30 min gratuit et sans engagement",
       "availability": {
         "status": "Disponible",
-        "slots": "\"Je n'accepte que 5 projets à la fois pour garantir la qualité et le suivi constant.\""
+        "slots": "\"Je n'accepte simultanément qu'un nombre limité de projets pour leur garantir une qualité et un suivi constant.\""
       },
       "imageAlt": "Mauritius Loïc - Développeur Web Full Stack"
     },
@@ -68,7 +68,7 @@
     "benefits": {
       "badge": "Pourquoi travailler avec moi ?",
       "title": "Un développeur rigoureux et à l'écoute",
-      "subtitle": "Je ne livre pas un projet pour disparaître ensuite ! Je construis une base technique que vous pouvez faire évoluer tout en challengeant votre idée, afin de la faire concrétiser ensemble.",
+      "subtitle": "Je construis une base technique solide que vous pouvez faire évoluer, tout en étant force de propositions afin de concrétiser votre idée. Je garantis la maintenance et la clarté de la solution délivrée.",
       "items": {
         "maintainable": {
           "title": "Code maintenable",
@@ -84,7 +84,7 @@
         },
         "quality": {
           "title": "Engagement qualité",
-          "description": "Je privilégie la qualité, la stabilité et la scalabilité du produit."
+          "description": "Je privilégie la qualité, la stabilité et la scalabilité du produit. Un suivi est assuré après la livraison."
         },
         "structured": {
           "title": "Approche structurée",

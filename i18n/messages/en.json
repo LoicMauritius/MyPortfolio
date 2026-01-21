@@ -1,7 +1,7 @@
 {
     "common": {
         "bookCall": "Get in touch",
-        "bookCallDiscovery": "Let's discuss your project",
+        "bookCallDiscovery": "Let’s discuss your project",
         "viewAllCases": "View all projects",
         "learnMore": "Learn more",
         "send": "Send",
@@ -9,7 +9,7 @@
         "close": "Close"
     },
     "header": {
-      "name": "Loïc Mauritius",
+      "name": "Mauritius Loïc",
       "nav": {
         "results": "Approach",
         "services": "Services",
@@ -22,9 +22,9 @@
     "hero": {
       "title": {
         "part1": "I build ",
-        "part2": "completed and maintainable web applications"
+        "part2": "robust and maintainable web applications"
       },
-      "subtitle": "Full-stack Developer and Freelancer based in France passionate about quality code. I create applications designed to last, through a methodical approach and transparent communication. My goal is to deliver a reliable application that doesn’t become a technical problem in 6 months.",
+      "subtitle": "Full-stack developer and freelancer based in France, passionate about quality code. I create applications designed to last, through a methodical approach and transparent communication. My goal is to deliver a reliable and sustainable application over time.",
       "features": {
         "modern": "Modern stack",
         "clean": "Standardized, structured, and readable code",
@@ -32,15 +32,15 @@
         "tech_debt": "No hidden technical debt"
       },
       "cta": {
-        "primary": "Let's discuss your project",
+        "primary": "Let’s discuss your project",
         "secondary": "View my work"
       },
-      "freeCall": "30-minute free and no-obligation call",
+      "freeCall": "30-minute free, no-obligation call",
       "availability": {
         "status": "Available",
-        "slots": "\"I only accept 5 projects at a time to ensure quality and constant follow-up.\""
+        "slots": "I only accept a limited number of projects simultaneously to ensure constant quality and follow-up."
       },
-      "imageAlt": "Loïc Mauritius - Full Stack Web Developer"
+      "imageAlt": "Mauritius Loïc - Full Stack Web Developer"
     },
     "socialProof": {
       "badge": "How I work",
@@ -53,7 +53,7 @@
         },
         "quality": {
           "value": "",
-          "label": "Systematic testing and code reviews"
+          "label": "Systematic testing and code review"
         },
         "outsourcing": {
           "value": "",
@@ -68,7 +68,7 @@
     "benefits": {
       "badge": "Why work with me?",
       "title": "A rigorous and attentive developer",
-      "subtitle": "I don’t deliver a project just to disappear! I build a technical foundation that you can evolve, while challenging your idea to make it a reality together.",
+      "subtitle": "I build a solid technical foundation that you can evolve, while offering suggestions to bring your idea to life. I guarantee the maintenance and clarity of the delivered solution.",
       "items": {
         "maintainable": {
           "title": "Maintainable code",
@@ -76,15 +76,15 @@
         },
         "productVision": {
           "title": "Product vision",
-          "description": "I develop each feature as if the application were going into production the next day."
+          "description": "I develop each feature as if the application were to be used in production the next day."
         },
         "communication": {
           "title": "Clear communication",
-          "description": "Simple explanations, justified technical choices, and regular exchanges throughout the project."
+          "description": "Simple explanations, justified technical choices, and regular updates throughout the project."
         },
         "quality": {
           "title": "Quality commitment",
-          "description": "I prioritize quality, stability, and scalability of the product."
+          "description": "I prioritize quality, stability, and scalability of the product. Follow-up is ensured after delivery."
         },
         "structured": {
           "title": "Structured approach",
@@ -92,7 +92,7 @@
         },
         "improvement": {
           "title": "Continuous improvement",
-          "description": "Every project is an opportunity to learn, optimize, and propose better solutions."
+          "description": "Each project is an opportunity to learn, optimize, and propose better solutions."
         }
       }
     },
@@ -105,15 +105,15 @@
         "support": "Support after delivery",
         "ownership": "You own the source code"
       },
-      "cta": "Let's discuss your project",
+      "cta": "Let’s discuss your project",
       "callInfo": "30 minutes, free, no obligation"
     },
     "contact": {
-      "badge": "Let's talk about your project",
-      "title": "A first exchange to get to know each other",
-      "subtitle": "Let's take 30 minutes to discuss your project, understand your needs, and see if we can work together.",
+      "badge": "Let’s talk about your project",
+      "title": "An initial exchange to get to know each other",
+      "subtitle": "Let’s take 30 minutes to discuss your project, understand your needs, and see if we can work together.",
       "benefits": {
-        "title": "What we'll discuss together:",
+        "title": "What we’ll cover together:",
         "audit": "Understand your needs and context",
         "recommendations": "Think about possible solutions",
         "estimate": "Estimate scope and timelines",
@@ -129,33 +129,33 @@
         "email": "Email",
         "company": "Company (optional)",
         "project": "Describe your project in a few words",
-        "projectPlaceholder": "Example: I want to create a booking app for my restaurant...",
+        "projectPlaceholder": "Ex: I want to create a booking app for my restaurant...",
         "submitPrimary": "Schedule a call",
         "submitSecondary": "Or send me a message",
         "sending": "Sending...",
-        "responseTime": "I'll get back to you quickly to arrange a time slot.",
+        "responseTime": "I’ll get back to you quickly to arrange a time.",
         "required": "*",
-        "success": "Message sent successfully! I'll get back to you very soon.",
+        "success": "Message sent successfully! I’ll get back to you very soon.",
         "error": "An error occurred. Please try again or contact me directly."
       }
     },
     "calendly": {
-      "title": "Schedule a chat",
+      "title": "Schedule a call",
       "subtitle": "30 minutes to discuss your project",
       "close": "Close"
     },
     "footer": {
       "rights": "All rights reserved.",
-      "madeWith": "Created with",
+      "madeWith": "Made with",
       "by": "by"
     },
     "projects": {
       "badge": "Projects",
-      "title": "What I've built",
+      "title": "What I’ve built",
       "subtitle": "Personal and collaborative projects that illustrate my approach to web development.",
       "viewAll": "View all projects",
       "allProjectsTitle": "My projects",
-      "allProjectsSubtitle": "Personal and collaborative projects built with care"
+      "allProjectsSubtitle": "Personal and collaborative projects, built with care"
     },
     "projectDetail": {
       "home": "Home",
@@ -173,7 +173,7 @@
     "services": {
       "badge": "Services",
       "title": "What I can do for you",
-      "subtitle": "From showcase websites to web applications, I adapt to your project and constraints",
+      "subtitle": "From showcase websites to web applications, I adapt to your project and constraints ",
       "subtitlebis": "at preferential rates.",
       "popularBadge": "Recommended",
       "cta": "Learn more",
@@ -181,18 +181,18 @@
       "allServicesSubtitle": "The types of projects I can deliver",
       "priceLabel": "Price",
       "durationLabel": "Duration",
-      "includes": "What's included",
+      "includes": "What’s included",
       "more": "more"
     },
     "servicesPage": {
       "metaTitle": "Services | Web Development",
-      "metaDescription": "Discover my web development services: websites, business tools, MVPs and AI automation.",
+      "metaDescription": "Discover my web development services: showcase sites, business applications, MVPs, and AI automation.",
       "badge": "Services",
       "title": "Solutions tailored to your needs",
-      "subtitle": "Whether you need a website, a business tool, or an MVP, I support you with a structured and transparent approach.",
+      "subtitle": "Whether you need a showcase site, a business tool, or an MVP, I support you with a structured and transparent approach.",
       "helpMeChoose": "Help me choose",
       "decisionHelper": {
-        "title": "Which service fits your needs?",
+        "title": "Which service matches your need?",
         "subtitle": "Select the option that best describes your situation.",
         "recommended": "Recommended",
         "learnMore": "Learn more",
@@ -205,9 +205,9 @@
       },
       "cta": {
         "title": "Not sure where to start?",
-        "subtitle": "Let's take 30 minutes to discuss your project and identify the best solution together.",
+        "subtitle": "Let’s take 30 minutes to discuss your project and identify the best solution together.",
         "button": "Schedule a call",
-        "reassurance": "Free, no-obligation chat"
+        "reassurance": "Free, no-obligation exchange"
       }
     },
     "serviceDetail": {
@@ -215,16 +215,16 @@
       "services": "Services",
       "service": "Service",
       "duration": "Estimated duration",
-      "pricing": "Indicative pricing",
+      "pricing": "Indicative price",
       "overview": "Overview",
       "problemSolved": "The need",
-      "deliverables": "What's included",
+      "deliverables": "What’s included",
       "process": "How I work",
       "processDescription": "A structured, step-by-step approach",
       "technologies": "Technologies used",
       "competences": "Skills",
       "readyToStart": "Interested in this project?",
-      "ctaDescription": "Let's take 30 minutes to discuss it and see if I can help you.",
-      "freeConsultation": "Free, no-obligation chat"
+      "ctaDescription": "Let’s take 30 minutes to discuss it and see if I can help you.",
+      "freeConsultation": "Free, no-obligation exchange"
     }
 }

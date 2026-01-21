@@ -158,7 +158,7 @@ export function ServiceCard({ service, popular = false, className, variant = "de
           )}
         >
           <Link href={`/services/${service.slug}`}>
-            {service.cta[locale]}
+            {t("cta")}
             <ArrowRight className="w-5 h-5 transition-transform group-hover:translate-x-0.5" />
           </Link>
         </Button>

@@ -3,19 +3,19 @@
     {
       "slug": "chillzone",
       "title": {
-        "fr": "La ChillZone",
-        "en": "La ChillZone"
+        "fr": "La ChillZone - Web/Mobile",
+        "en": "La ChillZone - Web/Mobile"
       },
       "shortDescription": {
         "fr": "Application mobile et web visant à améliorer le quotidien des étudiants et du personnel universitaire.",
         "en": "Mobile and web application designed to improve daily life for students and university staff."
       },
       "description": {
-        "fr": "Une application mobile développée dans le cadre du BUT Informatique, couvrant l'ensemble du cycle de vie d'un projet : recueil des besoins, conception, développement et validation via un POC fonctionnel. Son but étant de centraliser divers services étudiants au sein d'une même application simple et accessible. Et sa réalisation a été effectuée en uniquement 6 mois avec accès administrateur par web et API hébergé sur un serveur distant compris.",
+        "fr": "Dans le but de centraliser divers services étudiants au sein d'une même application simple et accessible; cette application mobile a été développée dans le cadre du BUT Informatique, en couvrant l'ensemble du cycle de vie d'un projet : recueil des besoins, conception, développement et validation via un POC fonctionnel.  Sa réalisation a été effectuée en uniquement 6 mois avec accès administrateur par web et API hébergé sur un serveur distant compris.",
         "en": "A mobile and web application developed as part of a Computer Science degree, covering the full project lifecycle: requirements gathering, design, development, and validation through a functional proof of concept. Its goal is to centralize various student services within a single, simple, and accessible application. The project was completed in just 6 months, including a web admin interface and an API hosted on a remote server."
       },
       "context": {
-        "fr": "Dans le cadre de ma troisième année de BUT informatique, j'ai été amené à faire un projet universitaire réalisé en équipe visant à concevoir une solution concrète répondant à des besoins réels au sein d'un campus universitaire en l'espace de 6 mois.",
+        "fr": "Dans le cadre de ma troisième année de BUT informatique, j'ai monté un projet visant à concevoir une solution concrète répondant à des besoins réels au sein d'un campus universitaire, et cela, en l'espace de 6 mois.",
         "en": "As part of my third year in Computer Science, I worked on a team university project aimed at designing a practical solution to address real needs on a university campus within 6 months."
       },
       "problem": {
@@ -27,7 +27,7 @@
         "en": "Development of a cross-platform application using React, React Native, and TypeScript, integrating mobile features and a web back-office."
       },
       "results": {
-        "fr": "POC fonctionnel en 6 mois démontrant la faisabilité technique et la cohérence fonctionnelle du produit. Le projet a permis d'identifier les contraintes techniques et organisationnelles nécessaires à un déploiement réel à l'échelle d'un campus.",
+        "fr": "POC fonctionnel en 6 mois démontrant la faisabilité technique et la cohérence des fonctionnalités du produit. Le projet a permis d'identifier les contraintes techniques et organisationnelles nécessaires à un déploiement réel à l'échelle d'un campus.",
         "en": "Functional proof of concept completed in 6 months, demonstrating technical feasibility and functional coherence. The project identified the technical and organizational constraints required for real-world deployment on a campus scale."
       },
       "competences": ["Project Management", "UX/UI", "Mobile Development", "Back-office"],
@@ -37,7 +37,7 @@
           "Consultation de l'emploi du temps",
           "Réservation en Click & Collect de nourriture",
           "Réservation de salles et de box acoustiques",
-          "Interface mobile inclusive",
+          "Interface mobile inclusive pour malvoyants",
           "Interface web pour la gestion administrative",
           "Interface web pour la gestion des restaurateurs partenaires"
         ],
@@ -45,7 +45,7 @@
           "Timetable access",
           "Food Click & Collect booking",
           "Room and acoustic booth reservation",
-          "Inclusive mobile interface",
+          "Inclusive mobile interface for visually impaired users",
           "Web interface for administrative management",
           "Web interface for partner restaurant management"
         ]
@@ -61,12 +61,11 @@
       },
       "date": "2025-01-01"
     },
-
     {
       "slug": "fr-reservation",
       "title": {
-        "fr": "FR-Reservation",
-        "en": "FR-Reservation"
+        "fr": "FR-Reservation - Web",
+        "en": "FR-Reservation - Web"
       },
       "shortDescription": {
         "fr": "Une application web de réservation de billets de trains dans toute la France avec base de données des trajets.",
@@ -77,19 +76,19 @@
         "en": "Web application enabling train ticket search, booking, and management using a NoSQL database."
       },
       "context": {
-        "fr": "Dans le cadre de ma deuxième année de BUT informatique, nous avons été amené à travailler sur un projet universitaire dédié au monde du transport. L'objectif était de concevoir une application complète répondant à un besoin précis en utilisant des technologies web modernes.",
+        "fr": "Dans le cadre de ma deuxième année de BUT informatique, j'ai développé ce projet universitaire dédié au monde du transport. L'objectif était de concevoir une application complète répondant à un besoin précis en utilisant des technologies web modernes.",
         "en": "As part of my second year in Computer Science, I worked on a university project focused on the transportation sector. The goal was to design a complete application addressing a specific need using modern web technologies."
       },
       "problem": {
-        "fr": "Concevoir un système de réservation simple tout en gérant la donnée des utilisateurs de manière efficace et en faire un projet scalable.",
+        "fr": "Concevoir un système de réservation simple tout en gérant les données des utilisateurs de manière efficace et en faire un projet scalable.",
         "en": "Designing a simple booking system while efficiently managing user data and ensuring scalability."
       },
       "solution": {
-        "fr": "Utilisation de Next.js pour le développement Full-Stack et MongoDB pour le stockage des données scalable.",
+        "fr": "Utilisation de Next.js pour le développement Full-Stack et MongoDB pour le stockage scalable des données.",
         "en": "Use of Next.js for full-stack development and MongoDB for scalable data storage."
       },
       "results": {
-        "fr": "Application fonctionnelle avec gestion des réservations et authentification en 3 semaines.",
+        "fr": "Application fonctionnelle en 3 semaines avec gestion des réservations et authentification.",
         "en": "Functional application with booking management and authentication completed in 3 weeks."
       },
       "competences": ["Web Architecture", "NoSQL Database", "Authentication"],
@@ -119,15 +118,14 @@
       },
       "date": "2024-03-01"
     },
-
     {
       "slug": "daktari",
       "title": {
-        "fr": "Daktari",
-        "en": "Daktari"
+        "fr": "Daktari - Web",
+        "en": "Daktari - Web"
       },
       "shortDescription": {
-        "fr": "Application web de gestion pour clinique vétérinaire.",
+        "fr": "Application web de gestion pour cliniques vétérinaires.",
         "en": "Web application for veterinary clinic management."
       },
       "description": {
@@ -143,23 +141,23 @@
         "en": "Structuring and securing medical data while simplifying its management."
       },
       "solution": {
-        "fr": "Conception du schéma de base de données et développement d'une interface web dynamique.",
+        "fr": "Conception d'un schéma de base de données et développement d'une interface web dynamique.",
         "en": "Design of the database schema and development of a dynamic web interface."
       },
       "results": {
-        "fr": "Système fonctionnel couvrant les principaux besoins d'une clinique.",
-        "en": "Functional system covering the core needs of a clinic."
+        "fr": "Système fonctionnel couvrant les principaux besoins administratifs d'une clinique.",
+        "en": "Functional system covering the core administrative needs of a clinic."
       },
       "competences": ["Data Modeling", "CRUD", "Security"],
       "technologies": ["PHP", "PostgreSQL", "HTML"],
       "features": {
         "fr": [
-          "Gestion des dossiers vétérinaires",
+          "Gestion et suivi des dossiers vétérinaires",
           "Prise de rendez-vous",
           "Gestion des rôles utilisateurs"
         ],
         "en": [
-          "Veterinary record management",
+          "Veterinary record management and tracking",
           "Appointment booking",
           "User role management"
         ]
@@ -175,20 +173,19 @@
       },
       "date": "2022-10-01"
     },
-
     {
       "slug": "cnil-dashboard",
       "title": {
-        "fr": "Dashboard contrôles CNIL",
-        "en": "CNIL Controls Dashboard"
+        "fr": "Dashboard contrôles CNIL - Data",
+        "en": "CNIL Controls Dashboard - Data"
       },
       "shortDescription": {
         "fr": "Tableau de bord de visualisation de données publiques.",
         "en": "Public data visualization dashboard."
       },
       "description": {
-        "fr": "Dashboard interactif permettant l'analyse et l'exploration de jeux de données issus du gouvernement français.",
-        "en": "Interactive dashboard for analyzing and exploring datasets from the French government."
+        "fr": "Dashboard interactif permettant l'analyse et l'exploration de jeux de données issus du gouvernement français sur une période de dix ans.",
+        "en": "Interactive dashboard for analyzing and exploring datasets from the French government over a ten-year period."
       },
       "context": {
         "fr": "Projet universitaire orienté data visualisation.",
@@ -203,8 +200,8 @@
         "en": "Creation of dynamic charts with real-time filtering."
       },
       "results": {
-        "fr": "Interface claire facilitant l'analyse des données.",
-        "en": "Clear interface facilitating data analysis."
+        "fr": "Page web présentant une interface claire facilitant l'analyse et l'exploitation des données.",
+        "en": "Web page with a clear interface facilitating data analysis and exploitation."
       },
       "competences": ["Data Visualization", "Data Analysis"],
       "technologies": ["PHP", "PostgreSQL", "HTML"],
@@ -212,11 +209,13 @@
         "fr": [
           "Graphiques interactifs",
           "Filtres dynamiques",
+          "Carte interactive",
           "Mise à jour des données"
         ],
         "en": [
           "Interactive charts",
           "Dynamic filters",
+          "Interactive map",
           "Data updates"
         ]
       },
@@ -231,12 +230,11 @@
       },
       "date": "2023-01-01"
     },
-
     {
       "slug": "lexiquest",
       "title": {
-        "fr": "LexiQuest",
-        "en": "LexiQuest"
+        "fr": "LexiQuest - Jeu",
+        "en": "LexiQuest - Game"
       },
       "shortDescription": {
         "fr": "Jeu web basé sur la proximité des mots.",
@@ -247,7 +245,7 @@
         "en": "An interactive game combining a modern, clean web interface with complex algorithms for word semantic calculations and graph search."
       },
       "context": {
-        "fr": "Ce projet universitaire en groupe multi-technologies allie des compétences en algorithmique, en développement frontend et backend.",
+        "fr": "Ce projet universitaire multi-technologies allie des compétences en algorithmique, en développement frontend et backend.",
         "en": "This multi-technology university group project combines skills in algorithms, frontend, and backend development."
       },
       "problem": {
@@ -255,7 +253,7 @@
         "en": "Combining algorithmic performance with user experience in an interactive game."
       },
       "solution": {
-        "fr": "Algorithmes en C pour la vitesse de calcul, parcours d'arbre en langage orienté objet Java et une interface React avec WebSocket.",
+        "fr": "Algorithmes en C pour la vitesse de calcul, parcours d'un arbre sémantique en langage orienté objet Java et une interface React avec WebSocket.",
         "en": "C-based algorithms for calculation speed, Java object-oriented tree traversal, and a React interface with WebSocket."
       },
       "results": {
@@ -289,12 +287,11 @@
       },
       "date": "2023-01-01"
     },
-
     {
       "slug": "ci-cd-jenkins",
       "title": {
-        "fr": "Pipeline CI/CD avec Jenkins",
-        "en": "CI/CD Pipeline with Jenkins"
+        "fr": "Pipeline CI/CD avec Jenkins - Gestion de projet",
+        "en": "CI/CD Pipeline with Jenkins - Project Management"
       },
       "shortDescription": {
         "fr": "Mise en place d'un pipeline d'intégration continue.",
