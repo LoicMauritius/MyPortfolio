@@ -20,7 +20,7 @@ export function Header() {
   const navigation = [
     { label: t("nav.results"), href: "/#results" },
     { label: t("nav.projects"), href: "/#projects" },
-    { label: t("nav.services"), href: "/#services" },
+    /*{ label: t("nav.services"), href: "/#services" },*/
     { label: t("nav.testimonials"), href: "/#testimonials" },
   ]
 
