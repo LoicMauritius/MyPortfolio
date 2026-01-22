@@ -11,12 +11,7 @@ export function GuaranteeSection() {
   const { openCalendly } = useCalendly()
   const t = useTranslations("guarantee")
 
-  const guarantees = [
-    t("guarantees.satisfaction"),
-    t("guarantees.corrections"),
-    t("guarantees.support"),
-    t("guarantees.ownership"),
-  ]
+  const values = Array.from({ length: 4 }, (_, i) => t(`values.${i}`))
 
   return (
     <section className="py-20 md:py-28 bg-primary text-primary-foreground">
@@ -33,10 +28,10 @@ export function GuaranteeSection() {
           </Text>
 
           <div className="grid sm:grid-cols-2 gap-4 mb-10 max-w-xl mx-auto text-left">
-            {guarantees.map((guarantee) => (
-              <div key={guarantee} className="flex items-center gap-3">
+            {values.map((value) => (
+              <div key={value} className="flex items-center gap-3">
                 <CheckCircle className="w-5 h-5 text-primary-foreground shrink-0" />
-                <span className="text-sm text-primary-foreground/90">{guarantee}</span>
+                <span className="text-sm text-primary-foreground/90">{value}</span>
               </div>
             ))}
           </div>

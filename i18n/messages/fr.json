@@ -97,16 +97,16 @@
       }
     },
     "guarantee": {
-      "title": "Transparence et engagement",
-      "subtitle": "Disponibilité et réactivité pour répondre à vos questions tout au long du processus: clarté sur la faisabilité, l'avancement et l'amélioration de votre projet.",
-      "guarantees": {
-        "satisfaction": "Ajustements inclus jusqu'à validation",
-        "corrections": "Points réguliers pour éviter les mauvaises surprises",
-        "support": "Accompagnement après livraison",
-        "ownership": "Vous êtes propriétaire du code source"
-      },
-      "cta": "Échangeons sur votre projet",
-      "callInfo": "30 minutes, gratuit, sans engagement"
+      "title": "Mon approche de travail",
+      "subtitle": "Collaboration transparente et communication fluide pour faire avancer les projets ensemble",
+      "values": [
+        "Code propre et maintenable sur le long terme",
+        "Échanges réguliers avec l'équipe et les parties prenantes",
+        "Montée en compétence rapide sur vos technologies",
+        "Engagement sur les résultats et l'amélioration continue"
+      ],
+      "cta": "Discutons de vos besoins",
+      "callInfo": "Échange informel pour explorer les opportunités"
     },
     "contact": {
       "badge": "Parlons de votre projet",
