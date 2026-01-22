@@ -10,10 +10,11 @@ export function Footer() {
   const tFooter = useTranslations("footer")
 
   const navigation = [
-    { label: t("nav.results"), href: "#results" },
-    { label: t("nav.services"), href: "#services" },
-    { label: t("nav.testimonials"), href: "#testimonials" },
-    { label: t("nav.projects"), href: "#projects" },
+    { label: t("nav.about"), href: "/" },
+    { label: t("nav.results"), href: "/#results" },
+    { label: t("nav.projects"), href: "/#projects" },
+    /*{ label: t("nav.services"), href: "/#services" },*/
+    { label: t("nav.contact"), href: "/#contact" },
   ]
   return (
     <footer className="py-12 bg-foreground text-background">

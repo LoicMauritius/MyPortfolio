@@ -18,10 +18,11 @@ export function Header() {
   const tCommon = useTranslations("common")
 
   const navigation = [
+    { label: t("nav.about"), href: "/" },
     { label: t("nav.results"), href: "/#results" },
     { label: t("nav.projects"), href: "/#projects" },
-    { label: t("nav.services"), href: "/#services" },
-    { label: t("nav.testimonials"), href: "/#testimonials" },
+    /*{ label: t("nav.services"), href: "/#services" },*/
+    { label: t("nav.contact"), href: "/#contact" },
   ]
 
   return (
