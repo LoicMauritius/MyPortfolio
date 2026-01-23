@@ -11,11 +11,15 @@ interface ServicePageProps {
   }>
 }
 
-// Generate static params for all services
+// Generate static params for all services and locales
 export async function generateStaticParams() {
-  return servicesData.services.map((service) => ({
-    slug: service.slug,
-  }))
+  const locales = ['en', 'fr']
+  return locales.flatMap((locale) =>
+    servicesData.services.map((service) => ({
+      locale,
+      slug: service.slug,
+    }))
+  )
 }
 
 // Generate metadata for SEO

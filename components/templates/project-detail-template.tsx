@@ -1,3 +1,5 @@
+"use client";
+
 import { Header } from "@/components/organisms/header"
 import { Footer } from "@/components/organisms/footer"
 import { ProjectDetailContent } from "@/components/organisms/project-detail-content"

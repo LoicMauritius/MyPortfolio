@@ -81,8 +81,9 @@ export function ProjectDetailContent({ project, className }: ProjectDetailConten
                   <Image
                     src={image}
                     alt={`${project.title[locale]} - Screenshot ${index + 1}`}
-                    fill
-                    objectFit="contain"
+                    style={{ objectFit: 'contain' }}
+                    width={500}
+                    height={300}
                   />
                 </div>
               </Card>

@@ -11,11 +11,15 @@ interface ProjectPageProps {
   }>
 }
 
-// Generate static params for all projects
+// Generate static params for all projects and locales
 export async function generateStaticParams() {
-  return projectsData.projects.map((project) => ({
-    slug: project.slug,
-  }))
+  const locales = ['en', 'fr']
+  return locales.flatMap((locale) =>
+    projectsData.projects.map((project) => ({
+      locale,
+      slug: project.slug,
+    }))
+  )
 }
 
 // Generate metadata for SEO
